@@ -41,4 +41,4 @@ To stop or restart CloudForest, run the **StopCloudForest** and **RestartCloudFo
 ### 3. Bringing Your Own Data
 We will leave time at the end of the workshop to help anyone who wants to bring their own data with them to analyze in CloudForest. Since the tools in CloudForest are primarily focused on understanding structure in tree sets, it would be easiest if you bring a set of trees in a common file format (e.g., Nexus or Newick). CloudForest also contains some tools to help infer trees from alignments using IQTree, but the inference step can be time consuming in the context of a workshop. Please also note that all trees need to be the same size and have the same tip labels (e.g., species names).
 
-Thanks so much, and please feel free to reach out to us if you have any questions or run into any problems before Thursday.
+Thanks so much, and please feel free to reach out to us if you have any questions or run into any problems.
