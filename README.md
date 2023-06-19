@@ -18,8 +18,14 @@ https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10
 
 Installers are located here: https://github.com/TreeScaper/SSBWorkshop_2023/tree/main/launchers
 
-##### (MacOS)
+##### (MacOS - Intel Processors)
 1. Download **launchers/cloudforest_launchor_macos_v0.0.x.zip** from the workshop repository.
+2. Double click to extract into Downloads folder.
+3. Right-click or control-click the CloudForest.command file and select Open.
+4. Select Open on warning screen.
+
+##### (MacOS - Mac M1/M2 Processors)
+1. Download **launchers/cloudforest_launchor_macos_m1_v0.0.x.zip** from the workshop repository.
 2. Double click to extract into Downloads folder.
 3. Right-click or control-click the CloudForest.command file and select Open.
 4. Select Open on warning screen.
